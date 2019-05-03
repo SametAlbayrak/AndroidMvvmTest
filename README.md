@@ -1,4 +1,4 @@
-# AndroidMvvmTest
+# Android Mvvm Test Application
 mvvm dagger2- retrofit playground project.
 
 
